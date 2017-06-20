@@ -39,6 +39,11 @@
                 <action android:name="android.media.browse.MediaBrowserService" />
             </intent-filter>
         </service>
+
+        <activity
+            android:name=".activity_item"
+            android:label="@string/title_activity_activity_item"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

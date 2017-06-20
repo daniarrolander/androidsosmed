@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">sosmedApp</string>
+    <string name="title_activity_activity_item">activity_item</string>
 </resources>

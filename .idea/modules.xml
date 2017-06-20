@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MobileAppProject.iml" filepath="$PROJECT_DIR$/MobileAppProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sosmedApp.iml" filepath="$PROJECT_DIR$/sosmedApp.iml" />
     </modules>
   </component>
 </project>
